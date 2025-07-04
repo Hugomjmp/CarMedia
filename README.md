@@ -6,4 +6,4 @@ This is a project to make a simple media interface for older car, in this case a
 
 ## Screenshots
 
-![App Screenshot](![MainScreen.png](Screenshots%2FMainScreen.png))
+![MainScreen.png](Screenshots/MainScreen.png)
