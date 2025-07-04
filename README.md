@@ -19,3 +19,5 @@ This is a project to learn more Java andd in the process to make a simple media 
 ## Screenshots
 
 ![MainScreen.png](Screenshots/MainScreen.png)
+![source.png](Screenshots/source.png)
+
