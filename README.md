@@ -6,4 +6,4 @@ This is a project to make a simple media interface for older car, in this case a
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](![MainScreen.png](Screenshots%2FMainScreen.png))

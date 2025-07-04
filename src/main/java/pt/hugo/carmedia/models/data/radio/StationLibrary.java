@@ -52,8 +52,6 @@ public class StationLibrary {
                     stations.add(station);
                 }
             }
-
-
         } catch (IOException e) {
             throw new RuntimeException(e);
         }
