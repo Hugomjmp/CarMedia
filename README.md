@@ -1,6 +1,6 @@
 # CarMedia
 
-This is a project to learn more Java andd in the process to make a simple media interface for older car, in this case a VW Golf mk4.
+This is a project to learn more Java and in the process to make a simple media interface for older car, in this case a VW Golf mk4.
 
 ## Functionalities
 
